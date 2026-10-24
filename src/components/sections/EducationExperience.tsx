@@ -66,8 +66,8 @@ const EXPERIENCE_DATA: ExperienceItem[] = [
       "Mentored junior students under PTSC – Ignite Summers 2025 with daily curated resources, self-prepared topic-wise problem sheets, and end-of-day editorials.",
       "Applied advanced CP algorithms (graph theory, dynamic programming, core data structures) through consistent practice and national-level contests.",
     ],
-    buttonText: "Club GitHub",
-    buttonLink: "https://github.com/programming-club-knit",
+    buttonText: "Club Website",
+    buttonLink: "https://ptsc.app",
   },
 ];
 
