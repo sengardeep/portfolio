@@ -79,7 +79,7 @@ export function HeroSection() {
         {/* CTA Buttons */}
         <div className="flex items-center gap-3">
           <a
-            href="https://drive.google.com/file/d/15KZvJEWOAG4FFaHaSe6L2a5R2njcIojo/view?usp=sharing"
+            href="https://drive.google.com/file/d/1X60Xk0Vq0_Fm-np9gun1_C3z629gTPyU/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className={buttonVariants({
