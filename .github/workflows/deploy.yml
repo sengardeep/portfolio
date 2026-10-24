@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  IMAGE: ghcr.io/OWNER/REPO
+  IMAGE: ghcr.io/sengardeep/portfolio
 
 jobs:
   build-and-deploy:
